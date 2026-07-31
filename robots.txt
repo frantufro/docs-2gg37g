@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-snjx1z.magyarok.cc/sitemap.xml
